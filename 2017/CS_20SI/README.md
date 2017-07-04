@@ -13,6 +13,7 @@
 |2017-07-14    | 5. Managing experiments and process data           |장성욱  | 코드   |   슬라이드   |
 |2017-07-18    | 6. Convolutional Neural Networks                   |김윤진  | 코드   |   슬라이드   |
 |2017-07-18    | 7. Input Pipeline                                  |장예훈  | 코드   |   슬라이드   |
-|2017-07-21    | 8. Convolutional-GRU                               |김지희  | 코드   |   슬라이드   |
-|2017-07-25    | 9. Seq2seq with Attention                          |김성철  | 코드   |   슬라이드   |
-|2017-07-25    | 10. Reinforcement Learning in Tensorflow           |장성욱  | 코드   |   슬라이드   |
+|2017-07-21    | 8. Introduction to RNN, LSTM, GRU                  |김윤진  | 코드   |   슬라이드   |
+|2017-07-21    | 9. Convolutional-GRU                               |김지희  | 코드   |   슬라이드   |
+|2017-07-25    | 10. Seq2seq with Attention                         |김성철  | 코드   |   슬라이드   |
+|2017-07-25    | 11. Reinforcement Learning in Tensorflow           |장성욱  | 코드   |   슬라이드   |
