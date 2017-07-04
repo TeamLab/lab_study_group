@@ -1,6 +1,8 @@
 # lab_study_group
 
-## 2017 여름
+##2017@Gachon
+
+### Summer - Deep learning Trio
 
 
 - [CS 20SI: Tensorflow for Deep Learning Research](https://github.com/KimyoonJIn/lab_study_group/tree/master/CS_20SI)
