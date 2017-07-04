@@ -1,6 +1,6 @@
 # lab_study_group
 
-##2017@Gachon
+## 2017@Gachon
 
 ### Summer - Deep learning Trio
 
