@@ -11,7 +11,7 @@
 |2017-07-11    | 3. Linear and Logistic Regression                  |김지희  | 코드   |   슬라이드   |
 |2017-07-14    | 4. Structure your TensorFlow model                 |장예훈  | 코드   |   슬라이드   |
 |2017-07-14    | 5. Managing experiments and process data           |장시온  | 코드   |   슬라이드   |
-|2017-07-18    | 6. Convolutional Neural Networks                   |김윤진  | 코드   |   슬라이드   |
+|2017-07-18    | 6. Convolutional Neural Networks                   |김윤진(https://github.com/KimyoonJIn)   | 코드(https://github.com/KimyoonJIn/study_CS20SI/blob/master/Using_MNIST_Data.ipynb)   |   슬라이드   |
 |2017-07-18    | 7. Input Pipeline                                  |장예훈  | 코드   |   슬라이드   |
 |2017-07-21    | 8. Introduction to RNN, LSTM, GRU                  |김윤진  | 코드   |   슬라이드   |
 |2017-07-21    | 9. Convolutional-GRU                               |김지희  | 코드   |   슬라이드   |
