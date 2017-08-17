@@ -2,9 +2,9 @@
 
 - Study 기간 : 2017.07.11 ~ 2017.07.25
 - 참여 인원 : 지도교수 최성철, 학부생 김성철, 장시온, 장예훈, 김윤진, 김지희
-
-
-
+<hr>
+<br>
+<br>
 |     일시     | Chapter                                            |발표자  | 코드   |    슬라이드  |
 |--------------|----------------------------------------------------|-------|--------|-------------|
 |2017-07-11    | 1. Overview of Tensorflow & 2. Operations          |[김성철](https://github.com/SeongCheol-Kim)  | [코드](https://github.com/SeongCheol-Kim/lab_study_group/blob/master/2017/CS_20SI/code/1.%20Overview%20of%20Tensorflow%20%26%202.%20Operations.ipynb)   |   슬라이드   |
