@@ -5,8 +5,9 @@
 <hr>
 <br>
 <br>
-|일시          |Chapter                    |발표자    |코드    |슬라이드     |
-|:--------------:|:----------------------------------------------------|:-------:|:--------:|:-------------:|
+
+|일시          |Chapter                                               |발표자    |코드    |슬라이드     |
+|:------------:|:-----------------------------------------------------|:-------:|:------:|:----------:|
 |2017-08-11    | 1. Intro to NLP and Deep Learning|장예훈|코드|슬라이드|
 |2017-08-11    | 2. Simple Word Vector representations: word2vec, GloVe|김지희| 코드   |   슬라이드   |
 |2017-08-18    | 3. Advanced word vector representations<br>: language models, softmax, single layer networks|김성철  | |  |
