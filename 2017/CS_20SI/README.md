@@ -12,13 +12,10 @@
 |2017-07-14    | 4. Structure your TensorFlow model                 |[장예훈](https://github.com/YeHoonJang)  | [코드](https://github.com/YeHoonJang/lab_study_group/blob/master/2017/CS_20SI/code/lec4_word2vec_visualization.ipynb)   |   [슬라이드](https://onedrive.live.com/?cid=21A6DAE40E9A7896&id=21A6DAE40E9A7896%2120307&parId=21A6DAE40E9A7896%2119660&o=OneUp)   |
 |2017-07-14    | 5. Managing experiments and process data           |[장시온](https://github.com/janguck)  | 코드   |   [슬라이드](https://github.com/janguck/ppt_collection/blob/master/CS20SI_lec5.pptx)  |
 |2017-07-18    | 6. Convolutional Neural Networks                   |[김윤진](https://github.com/KimyoonJIn)   | [코드](https://github.com/KimyoonJIn/study_CS20SI/blob/master/Using_MNIST_Data.ipynb)   |   [슬라이드](https://github.com/KimyoonJIn/study_CS20SI/blob/master/ppt/CNN.pptx)   |
-<<<<<<< HEAD
 |2017-07-18    | 7. Input Pipeline                                  |[장예훈](https://github.com/YeHoonJang)  | [코드]()   |   [슬라이드](https://onedrive.live.com/?cid=21A6DAE40E9A7896&id=21A6DAE40E9A7896%2120056&parId=21A6DAE40E9A7896%2119660&o=OneUp)   |
 |2017-07-21    | 8. Introduction to RNN, LSTM, GRU                  |[김윤진](https://github.com/KimyoonJIn)  | [코드](https://github.com/KimyoonJIn/study_CS20SI/blob/master/Intro_RNN%26LSTM%26GRU.ipynb)   |   [슬라이드](https://github.com/KimyoonJIn/study_CS20SI/blob/master/ppt/Intro_RNN_LSTM_GRU.pptx)   |
-=======
 |2017-07-18    | 7. Input Pipeline                                  |[장예훈](https://github.com/YeHoonJang)  | [코드]()  |   [슬라이드](https://onedrive.live.com/?cid=21A6DAE40E9A7896&id=21A6DAE40E9A7896%2120056&parId=21A6DAE40E9A7896%2119660&o=OneUp)   |
 |2017-07-21    | 8. Introduction to RNN, LSTM, GRU                  |김윤진  | 코드   |   슬라이드   |
->>>>>>> 071a73a95d45e5142afd82ac26ab86608534a2d9
 |2017-07-21    | 9. Convolutional-GRU                               |김지희  | 코드   |   슬라이드   |
 |2017-07-25    | 10. Seq2seq with Attention                         |김성철  | 코드   |   슬라이드   |
 |2017-07-25    | 11. Reinforcement Learning in Tensorflow           |장시온  | 코드   |   슬라이드   |
