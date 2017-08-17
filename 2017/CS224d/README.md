@@ -4,7 +4,7 @@
 - 참여 인원 : 지도교수 최성철, 학부생 김성철, 장시온, 장예훈, 김윤진, 김지희, 김재영
 <hr>
 <br>
-|일시          |Chapter                                                                                          |발표자    |코드    |슬라이드     |
+|일시          |Chapter                                                                                           |발표자    |코드    |슬라이드     |
 |:------------:|:------------------------------------------------------------------------------------------------|:-------:|:------:|:----------:|
 |2017-08-11    |1. Intro to NLP and Deep Learning                                                                |[장예훈](https://github.com/YeHoonJang)    |코드    |[슬라이드](https://onedrive.live.com/view.aspx?cid=21a6dae40e9a7896&page=view&resid=21A6DAE40E9A7896!20309&parId=21A6DAE40E9A7896!20308&app=PowerPoint)     |
 |2017-08-11    |2. Simple Word Vector representations: word2vec, GloVe                                           |[김지희](https://github.com/kjihee)    |코드    |슬라이드     |
