@@ -12,13 +12,15 @@ import config
 def get_lines():
     id2line = {}
     file_path = os.path.join(config.DATA_PATH, config.LINE_FILE)
-    lines = open(file_path, encoding='utf-8', errors='ignore').readlines()
-    for line in lines:
-        parts = line.split(' +++$+++ ')
-        if len(parts) == 5:
-            if parts[4][-1] == '\n':
-                parts[4] = parts[4][:-1]
-            id2line[parts[0]] = parts[4]
+    with open(file_path, encoding='utf-8', errors='ignore')  as f:
+        lines = f.readlines()
+        for line in lines:
+            parts = line.split(' +++$+++ ')
+            if len(parts) == 5:
+                if parts[4][-1] == '\n':
+                    parts[4] = parts[4][:-1]
+                id2line[parts[0]] = parts[4]
+
     return id2line
 
 
@@ -26,14 +28,14 @@ def get_convos():
     """ Get conversations from the raw data """
     file_path = os.path.join(config.DATA_PATH, config.CONVO_FILE)
     convos = []
-    lines = open(file_path, encoding='utf-8', errors='ignore').readlines()
-    for line in lines:
-        parts = line.split(' +++$+++ ')
-        if len(parts) == 4:
-            convo = []
-            for line in parts[3][1:-2].split(', '):
-                convo.append(line[1:-1])
-            convos.append(convo)
+    with open(file_path, encoding='utf-8', errors='ignore') as f:
+        for line in f.readlines():
+            parts = line.split(' +++$+++ ')
+            if len(parts) == 4:
+                convo = []
+                for line in parts[3][1:-2].split(', '):
+                    convo.append(line[1:-1])
+                convos.append(convo)
 
     return convos
 
@@ -89,7 +91,7 @@ def basic_tokenizer(line, normalize_digits=True):
     line = re.sub('\[', '', line)
     line = re.sub('\]', '', line)
     words = []
-    _WORD_SPLIT = re.compile(b"([.,!?\"'-<>:;)(])")
+    _WORD_SPLIT = re.compile("([.,!?\"'-<>:;)(])")
     _DIGIT_RE = re.compile(r"\d")
     for fragment in line.strip().lower().split():
         for token in re.split(_WORD_SPLIT, fragment):
@@ -122,7 +124,7 @@ def build_vocab(filename, normalize_digits=True):
         index = 4
         for word in sorted_vocab:
             if vocab[word] < config.THRESHOLD:
-                with open('config.py', 'ab') as cf:
+                with open('config.py', 'a') as cf:
                     if filename[-3:] == 'enc':
                         cf.write('ENC_VOCAB = ' + str(index) + '\n')
                     else:
@@ -212,9 +214,9 @@ def _reshape_batch(inputs, size, batch_size):
     """ Create batch-major inputs. Batch inputs are just re-indexed inputs
     """
     batch_inputs = []
-    for length_id in xrange(size):
+    for length_id in range(size):
         batch_inputs.append(np.array([inputs[batch_id][length_id]
-                                      for batch_id in xrange(batch_size)], dtype=np.int32))
+                                      for batch_id in range(batch_size)], dtype=np.int32))
     return batch_inputs
 
 
@@ -224,7 +226,7 @@ def get_batch(data_bucket, bucket_id, batch_size=1):
     encoder_size, decoder_size = config.BUCKETS[bucket_id]
     encoder_inputs, decoder_inputs = [], []
 
-    for _ in xrange(batch_size):
+    for _ in range(batch_size):
         encoder_input, decoder_input = random.choice(data_bucket)
         # pad both encoder and decoder, reverse the encoder
         encoder_inputs.append(list(reversed(_pad_input(encoder_input, encoder_size))))
@@ -236,9 +238,9 @@ def get_batch(data_bucket, bucket_id, batch_size=1):
 
     # create decoder_masks to be 0 for decoders that are padding.
     batch_masks = []
-    for length_id in xrange(decoder_size):
+    for length_id in range(decoder_size):
         batch_mask = np.ones(batch_size, dtype=np.float32)
-        for batch_id in xrange(batch_size):
+        for batch_id in range(batch_size):
             # we set mask to 0 if the corresponding target is a PAD symbol.
             # the corresponding decoder is decoder_input shifted by 1 forward.
             if length_id < decoder_size - 1:
