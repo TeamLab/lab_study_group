@@ -16,4 +16,4 @@
 |2017-07-28    | 8. Introduction to RNN, LSTM, GRU                          |[김윤진](https://github.com/KimyoonJIn)  | [코드](https://github.com/KimyoonJIn/study_CS20SI/blob/master/Intro_RNN%26LSTM%26GRU.ipynb)   |   [슬라이드](https://github.com/KimyoonJIn/study_CS20SI/blob/master/ppt/Intro_RNN_LSTM_GRU.pptx)   |
 |2017-08-01    | 9. Convolutional-GRU                                       |[김지희](https://github.com/kjihee)| 코드   |   슬라이드   |
 |2017-08-04    | 10. Seq2seq with Attention                                 |[김성철](https://github.com/SeongCheol-Kim)| [코드](https://github.com/SeongCheol-Kim/lab_study_group/tree/master/2017/CS_20SI/code/Seq2Seq%20with%20Attention)   |   [슬라이드](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ5eFHpDo5-6hS9jNg)   |
-|2017-08-04    | 11. Reinforcement Learning in Tensorflow                   |[장시온](https://github.com/janguck)| 코드   |   슬라이드   |
+|2017-08-04    | 11. Reinforcement Learning in Tensorflow                   |[장시온](https://github.com/janguck)| [코드](https://github.com/janguck/lab_study_group/blob/master/2017/CS_20SI/code/DQN.ipynb)   |   슬라이드   |
