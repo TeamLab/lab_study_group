@@ -6,7 +6,13 @@
 Email - teamlab.gachon@gmail.com
 
 ## 2017@Gachon
-### Summer - Deep Learning Trio
-- [CS 20SI: Tensorflow for Deep Learning Research](2017/CS_20SI)
-- [CS231n: Convolutional Neural Networks for Visual  Recognition](./2017/CS231n)
+
+### Issue
+- [2017 Issue List](./2017/Issue)
+
+### Fall - Deep Learning: NLP
 - [CS224d: Deep Learning for Natural Language Processing](./2017/CS224d)
+- [CS231n: Convolutional Neural Networks for Visual  Recognition](./2017/CS231n)
+
+### Summer - Deep Learning: Basic
+- [CS 20SI: Tensorflow for Deep Learning Research](2017/CS_20SI)
