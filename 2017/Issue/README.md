@@ -24,7 +24,7 @@
 | 2017-11-30 | [General Tips for participating Kaggle Competitions](https://www.slideshare.net/mobile/markpeng/general-tips-for-participating-kaggle-competitions)                           | [최석규](https://github.com/choiseokkyu)      | 슬라이드 |
 | 2017-11-30 | [DenseNet](https://github.com/YixuanLi/densenet-tensorflow)                                                                     | [김윤진](https://github.com/KimyoonJIn)      | 슬라이드 |
 | 미정         | [A non-NLP application of Word2Vec – Towards Data Science – Medium](https://medium.com/towards-data-science/a-non-nlp-application-of-word2vec-c637e35d3668)            | [김재영](https://github.com/kimjeyoung)      | 슬라이드 |
-| 미정         | [What is the best way to refresh my practical & theory in one week? (Book? Crash Course?) • r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/6ytiod/d_i_have_a_job_interview_about_ml_data_science/)      | [김지희](https://github.com/kjihee)      | 슬라이드 |
+| 미정         | [What is the best way to refresh my practical & theory in one week? <br/> (Book? Crash Course?) • r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/6ytiod/d_i_have_a_job_interview_about_ml_data_science/)      | [김지희](https://github.com/kjihee)      | 슬라이드 |
 | 미정         | [데이터 파이프라인의 이해 및 적정 도구 선정 실습](http://slides.com/openstack/sktechx11th#/)       | [김성철](https://github.com/SeongCheol-Kim)      | 슬라이드 |
 | 미정         | [pandas contribution 하기](https://www.youtube.com/watch?v=8n21UzCZMX8)              | [김지희](https://github.com/kjihee) | 슬라이드 |
 | 미정         | [SpaCy 2.0 Released- Natural Language Processing With Python](https://www.techleer.com/articles/404-spacy-20-released-natural-language-processing-with-python/) | [김윤진](https://github.com/KimyoonJIn) | 슬라이드 |
