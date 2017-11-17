@@ -11,10 +11,10 @@
 | 2017-08-11 | 2. Simple Word Vector representations: word2vec, GloVe                                            | [김지희](https://github.com/kjihee) |  코드 | [슬라이드](https://onedrive.live.com/view.aspx?cid=015f10e3710b9fe4&page=view&resid=21A6DAE40E9A7896!20319&parId=21A6DAE40E9A7896!20308&app=PowerPoint) |
 | 2017-08-18 | 3. Advanced word vector representations<br>: language models, softmax, single layer networks      | [김성철](https://github.com/SeongCheol-Kim) |  코드 | [슬라이드](https://1drv.ms/p/s!ApZ4mg7k2qYhgaEDAZ7Da-_OdPRrow) |
 | 2017-08-18 | 4. Neural Networks and backpropagation -- for named entity recognition                            | [김윤진](https://github.com/KimyoonJIn) |  코드 | [슬라이드](https://onedrive.live.com/view.aspx?cid=21a6dae40e9a7896&page=view&resid=21A6DAE40E9A7896!20320&parId=21A6DAE40E9A7896!20308&app=PowerPoint) |
-|     미정     | 5. Project Advice, Neural Networks and Back-Prop (in full gory detail)                            | [김재영](https://github.com/kimjeyoung) |  코드 | 슬라이드 |
+| 2017-11-09 | 5. Project Advice, Neural Networks and Back-Prop (in full gory detail)                            | [김재영](https://github.com/kimjeyoung) |  코드 | 슬라이드 |
 | 2017-11-09 | 6. Practical tips: gradient checks, overfitting, regularization,<br>activation functions, details | [장예훈](https://github.com/YeHoonJang) |  코드 | [슬라이드](https://onedrive.live.com/view.aspx?cid=21a6dae40e9a7896&page=view&resid=21A6DAE40E9A7896!20829&parId=21A6DAE40E9A7896!20308&app=PowerPoint) |
-|     미정     | 7. Recurrent neural networks -- for language modeling and other tasks                             | [김지희](https://github.com/kjihee) |  코드 | 슬라이드 |
-|     미정     | 8. GRUs and LSTMs -- for machine translation                                                      | [김재영](https://github.com/kimjeyoung) |  코드 | 슬라이드 |
-|     미정     | 9. Recursive neural networks -- for parsing                                                       | [김윤진](https://github.com/KimyoonJIn) |  코드 | 슬라이드 |
-|     미정     | 10. Convolutional neural networks -- for sentence classification                                  | [장시온](https://github.com/janguck) |  코드 | 슬라이드 |
+| 2017-11-23 | 7. Recurrent neural networks -- for language modeling and other tasks                             | [김지희](https://github.com/kjihee) |  코드 | 슬라이드 |
+| 2017-11-23 | 8. GRUs and LSTMs -- for machine translation                                                      | [김재영](https://github.com/kimjeyoung) |  코드 | 슬라이드 |
+| 2017-12-07 | 9. Recursive neural networks -- for parsing                                                       | [김윤진](https://github.com/KimyoonJIn) |  코드 | 슬라이드 |
+| 2017-12-07 | 10. Convolutional neural networks -- for sentence classification                                  | [장시온](https://github.com/janguck) |  코드 | 슬라이드 |
 |     미정     | 11. The future of Deep Learning for NLP: Dynamic Memory Networks                                  | [김성철](https://github.com/SeongCheol-Kim) |  코드 | 슬라이드 |
