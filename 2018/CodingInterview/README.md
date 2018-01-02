@@ -20,6 +20,24 @@
 | 7주차 | 카카오톡 코딩테스트 1차 문제 풀이(상) | 알고리즘 구현 |
 | 8주차 | 카카오톡 코딩테스트 1차 문제 풀이(하) | 알고리즘 구현 |
 
+#### Assignment
+
+Assignment 제출 : 매주 금요일 자정까지 각자 폴더에 업로드(코딩인터뷰 완전 분석 강의내용 포함) <br>
+Assignment 자료 : [삼성 SW 역량 테스트 기출 문제-백준님 블로그][4] <br>
+
+
+| Date | Title | URL | 
+| --- | --- | --- |
+| 1주차 | 연산자 끼워넣기 | https://www.acmicpc.net/problem/14888 |
+| 2주차 | 경사로 | https://www.acmicpc.net/problem/14890 |
+| 3주차 | 톱니바퀴 | https://www.acmicpc.net/problem/14891 |
+| 4주차 | 스타트와 링크 | https://www.acmicpc.net/problem/14889 |
+| 5주차 | 연구소 | https://www.acmicpc.net/problem/14502 |
+| 6주차 | 주사위 굴리기 | https://www.acmicpc.net/problem/14499 |
+| 7주차 | 카카오톡 코딩테스트 1차 문제 풀이(상) | [Link][2] |
+| 8주차 | 카카오톡 코딩테스트 1차 문제 풀이(하) | [Link][2] |
+
+
 
 ##### References
 
@@ -35,3 +53,7 @@
 [2]:http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
 
 [3]:https://www.inflearn.com/course/c-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
+
+[4]:https://www.acmicpc.net/workbook/view/1152
+
+
