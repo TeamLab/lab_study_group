@@ -17,14 +17,21 @@
 # n, direction = zip(*[list(map(int, line.split(" "))) for line in n_direction_data])
 
 from collections import deque
-matrix = [list(map(lambda x: str(x), input())) for i in range(4)]
+matrix = []
+matrix.append(deque([int(i) for i in input()]))
+matrix.append(deque([int(i) for i in input()]))
+matrix.append(deque([int(i) for i in input()]))
+matrix.append(deque([int(i) for i in input()]))
 step = int(input())
-n_direction = list(map(int, input().split()) for i in range(step))
-n, direction = zip(*n_direction)
-matrix = [deque(list(line)) for line in matrix]
+n = []
+direction = []
+for _ in range(step):
+    w, t = list(map(int, input().split()))
+    n.append(w)
+    direction.append(t)
 
 for i in range(step):
-    change_list = [0,0,0,0]
+    change_list = [0, 0, 0, 0]
     target_gear = n[i]-1
     left_gear_index = list(range(0, target_gear))[::-1]
     right_gear_index = list(range(target_gear+1, 4))
