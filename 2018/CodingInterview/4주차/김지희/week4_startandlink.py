@@ -1,21 +1,19 @@
 
 # coding: utf-8
 
-# In[ ]:
+
 
 
 from itertools import permutations
 from itertools import combinations
 
 
-# In[ ]:
+
 
 
 member= int(input())
 score_list =  [list(map(int, input().split())) for i in range(member)]
 
-
-# In[ ]:
 
 
 comb_of_member = list(combinations([i for i in range(member)],member//2))
@@ -36,7 +34,7 @@ for comb  in res:
 print(min(result_list))    
 
 
-# In[ ]:
+
 
 
 
