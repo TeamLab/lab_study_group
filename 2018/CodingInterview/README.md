@@ -1,3 +1,4 @@
+
 #  2018 TeamLab Coding Study Repository
 
 ####  기본적인 자료구조의 이해와 알고리즘의 구현
@@ -39,21 +40,24 @@
 
 
 
- ##### References
+##### References
 
- * https://www.inflearn.com/course/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%99%84%EC%A0%84-%EB%B6%84%EC%84%9D-%ED%92%80%EC%9D%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/
+* https://www.inflearn.com/course/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%99%84%EC%A0%84-%EB%B6%84%EC%84%9D-%ED%92%80%EC%9D%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/
 
- * http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
+* http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
 
- * https://www.inflearn.com/course/c-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
+* https://www.inflearn.com/course/c-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
 
 
- [1]:https://www.inflearn.com/course/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%99%84%EC%A0%84-%EB%B6%84%EC%84%9D-%ED%92%80%EC%9D%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/
+[1]:https://www.inflearn.com/course/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%99%84%EC%A0%84-%EB%B6%84%EC%84%9D-%ED%92%80%EC%9D%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/
 
- [2]:http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
+[2]:http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
 
- [3]:https://www.inflearn.com/course/c-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
+[3]:https://www.inflearn.com/course/c-%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
 
- [4]:https://www.acmicpc.net/workbook/view/1152
+[4]:https://www.acmicpc.net/workbook/view/1152
+=======
+
+
 
 
