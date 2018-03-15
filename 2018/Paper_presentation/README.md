@@ -9,7 +9,7 @@
 ####  A presentation schedule
 
  | Date | Title | Presenter |
- | --- | --- | --- |
+ | ---- | --- | --- |
  | Week 1 | Seokho Kang* (2017+),<br> ["Using binary classifiers for one-class classification"][9]| Hyundoo Jin |
  | Week 2 | Seokho Kang, Eunji Kim, Jaewoong Shim, Sungzoon Cho*, Wonsang Chang, Junhwan Kim (2017), <br>["Mining the relationship between production and customer service data for failure analysis of industrial products"][3] | Hongjun Jeon |
  | Week 3 | Seokho Kang, Eunji Kim, Jaewoong Shim, Wonsang Chang, Sungzoon Cho* (2017+),<br> [“Product failure prediction with missing data][10] | Hyundoo Jin |
