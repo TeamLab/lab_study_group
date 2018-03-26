@@ -8,14 +8,14 @@
 
 ####  A presentation schedule
 
- | Date | Title | Presenter |
- | ---- | --- | --- |
- | Week 1 | Seokho Kang* (2017+),<br> ["Using binary classifiers for one-class classification"][9]| Hyundoo Jin |
- | Week 2 | Seokho Kang, Eunji Kim, Jaewoong Shim, Sungzoon Cho*, Wonsang Chang, Junhwan Kim (2017), <br>["Mining the relationship between production and customer service data for failure analysis of industrial products"][3] | Hongjun Jeon |
- | Week 3 | Seokho Kang, Eunji Kim, Jaewoong Shim, Wonsang Chang, Sungzoon Cho* (2017+),<br> [“Product failure prediction with missing data][10] | Hyundoo Jin |
- | Week 4 | Daeseon Choi, Younho Lee, Seok Hyun Kim, and Pilsung Kang*. (2017), <br> ["Undisclosed private attribute inference from Facebook profile data"][4] | Hongjun Jeon |
- | Week 5 | Seokho Kang, Sungzoon Cho, Pilsung Kang* (2015),<br> ["Multi-class classification via heterogeneous ensemble of one-class classifiers"][11] | Hyundoo Jin |
- | Week 6 | Jongmyung Kim and Pilsung Kang*. (2016),<br> ["Late payment prediction models for fair allocation of customer contact lists to call center agents, Decision Support Systems"][5] | Hongjun Jeon |
+ | Date | Title | Presenter | Slide |
+ | ---- | --- | --- | --- |
+ | Week 1 | Ariyajunya, B., Tarun, P.*, Chen, V.*, Kim, S.B.  (2018+), <br> [Modeling the impact of airport deicing/anti-icing activities on the dissolved oxygen levels in the receiving waterways][9]| Hyundoo Jin |[PPT](https://1drv.ms/p/s!AkhuwIEQ62qbkxXe2SF2Y8L6V7eq) |
+ | Week 2 | Seokho Kang, Eunji Kim, Jaewoong Shim, Sungzoon Cho*, Wonsang Chang, Junhwan Kim (2017), <br>["Mining the relationship between production and customer service data for failure analysis of industrial products"][3] | Hongjun Jeon ||
+ | Week 3 | Seokho Kang, Eunji Kim, Jaewoong Shim, Wonsang Chang, Sungzoon Cho* (2017+),<br> [“Product failure prediction with missing data][10] | Hyundoo Jin | |
+ | Week 4 | Daeseon Choi, Younho Lee, Seok Hyun Kim, and Pilsung Kang*. (2017), <br> ["Undisclosed private attribute inference from Facebook profile data"][4] | Hongjun Jeon | |
+ | Week 5 | Seokho Kang, Sungzoon Cho, Pilsung Kang* (2015),<br> ["Multi-class classification via heterogeneous ensemble of one-class classifiers"][11] | Hyundoo Jin | |
+ | Week 6 | Jongmyung Kim and Pilsung Kang*. (2016),<br> ["Late payment prediction models for fair allocation of customer contact lists to call center agents, Decision Support Systems"][5] | Hongjun Jeon ||
  | Week 7 | Seokho Kang, Dongil Kim*, Sungzoon Cho (2016),<br> ["Efficient feature selection based on random forward search for virtual metrology modeling"][12] | Hyundoo Jin |
  | Week 8 | Seokho Kang, Pilsung Kang, Taehoon Ko, Sungzoon Cho*, Su-jin Rhee, and Kyung-sang Yu. (2015),<br> ["An efficient and effective ensemble of support vector machines for anti-diabetic drug failure prediction"][6] | Hongjun Jeon |
  | Week 9 | Seokho Kang and Pilsung Kang*. (2018), <br>["Locally linear embedding for regression"][13] | Hyundoo Jin |
@@ -40,7 +40,7 @@
 
 [8]:https://www.sciencedirect.com/science/article/pii/S0040162513001881
 
-[9]:https://sites.google.com/view/skkudm/publications/journals?authuser=0
+[9]:http://dmqa.korea.ac.kr/board/list.asp?b_code=B_JP&tid=102&sid=102
 
 [10]:https://www.tandfonline.com/doi/full/10.1080/00207543.2017.1407883
 
