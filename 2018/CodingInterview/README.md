@@ -1,9 +1,7 @@
 #  2018 TeamLab Coding Study Repository
 
 ####  기본적인 자료구조의 이해와 알고리즘의 구현
-
 ####  스터디 계획표
-
  강의영상 : [Inflearn 코딩 인터뷰 완전 분석 풀이(파이썬)][1] <br>
  카카오톡 코딩 테스트 자료: [Link][2] <br>
  자료구조 참고 강의 : [Inflearn C++ 로 배우는 자료구조][3]<br>
@@ -21,7 +19,6 @@
  | 8주차 | 카카오톡 코딩테스트 1차 문제 풀이(하) | 알고리즘 구현 |
 
 #### Assignment
-
  Assignment 제출 : 매주 금요일 자정까지 각자 폴더에 업로드(코딩인터뷰 완전 분석 강의내용 포함) <br>
  Assignment 자료 : [삼성 SW 역량 테스트 기출 문제-백준님 블로그][4] <br>
 
@@ -40,7 +37,6 @@
 
 
 ##### References
-
 * https://www.inflearn.com/course/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%99%84%EC%A0%84-%EB%B6%84%EC%84%9D-%ED%92%80%EC%9D%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/
 
 * http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
