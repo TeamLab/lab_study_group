@@ -9,7 +9,7 @@ Email - teamlab.gachon@gmail.com
 ### Issue
 - [2018 Issue List](./2018/Issue)
 
-### Spring
+### Spring / Summer
 - [Paper Presentation](./2018/Paper_presentation)
 - [KDD Cup Competition](./2018/KDD_Cup)
 
