@@ -19,11 +19,11 @@
  | Week 6 | Jongmyung Kim and Pilsung Kang*. (2016),<br> ["Late payment prediction models for fair allocation of customer contact lists to call center agents, Decision Support Systems"](https://www.sciencedirect.com/science/article/pii/S0167923616300264) | Hongjun Jeon | [PPT](https://1drv.ms/p/s!Ajzh_kS0v4hAcB6tKQS6igxgldQ) |
  | Week 7 | Seokho Kang and Pilsung Kang*. (2018), <br>["Locally linear embedding for regression"](https://www.sciencedirect.com/science/article/pii/S0020025517303420) | Hyundoo Jin |[PPT](https://1drv.ms/p/s!Ajzh_kS0v4hAdXhq7ciUNxkjVT4)|
  | Week 8 | Leslie N. Smith. (2018),<br> ["A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay"](https://arxiv.org/abs/1803.09820) | Hongjun Jeon |[PPT](https://1drv.ms/p/s!Ajzh_kS0v4hAc7R8G6mLxGP_V30)|
- | Week 9 | Chan Woo Lee, Kyu Ye Song, Jihoon Jeong, Woo Yong Choi. (2018), <br>["Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data"](https://arxiv.org/abs/1805.06606) | Hyundoo Jin |
- | Week 10 | TaeHyup Roh (2007),<br> ["Forecasting the volatility of stock price index"](https://www.sciencedirect.com/science/article/pii/S0957417406002223) | Hongjun Jeon |
- | Week 11 | Richárd Csáky. (2017),<br> ["Deep Learning Based Chatbot Models"](https://www.researchgate.net/publication/323587007_Deep_Learning_Based_Chatbot_Models) | Hyundoo Jin |
- | Week 12 | Eric Zelikman. (2018), <br>["Context is Everything: Finding Meaning Statistically in Semantic Spaces"](https://arxiv.org/abs/1803.08493) | Hongjun Jeon |
- | Week 13 | Undetermined | Hyundoo Jin |
- | Week 14 | Joseph Sill, Gabor Takacs, Lester Mackey, David Lin. (2009), <br>["Feature-Weighted Linear Stacking"](https://arxiv.org/pdf/0911.0460.pdf) | Hongjun Jeon |
- | Week 15 | Undetermined | Hyundoo Jin |
- | Week 16 | H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, etc. Google, Inc (2013), <br>["Ad Click Prediction: a View from the Trenches"](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf) | Hongjun Jeon | [PPT(ongoing)](https://1drv.ms/p/s!Ajzh_kS0v4hAd8DSHOYjzZpsN9A)
+ | Week 9 | Chan Woo Lee, Kyu Ye Song, Jihoon Jeong, Woo Yong Choi. (2018), <br>["Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data"](https://arxiv.org/abs/1805.06606) | Hyundoo Jin ||
+ | Week 10 | TaeHyup Roh (2007),<br> ["Forecasting the volatility of stock price index"](https://www.sciencedirect.com/science/article/pii/S0957417406002223) | Hongjun Jeon ||
+ | Week 11 | Richárd Csáky. (2017),<br> ["Deep Learning Based Chatbot Models"](https://www.researchgate.net/publication/323587007_Deep_Learning_Based_Chatbot_Models) | Hyundoo Jin ||
+ | Week 12 | Eric Zelikman. (2018), <br>["Context is Everything: Finding Meaning Statistically in Semantic Spaces"](https://arxiv.org/abs/1803.08493) | Hongjun Jeon ||
+ | Week 13 | Undetermined | Hyundoo Jin ||
+ | Week 14 | Joseph Sill, Gabor Takacs, Lester Mackey, David Lin. (2009), <br>["Feature-Weighted Linear Stacking"](https://arxiv.org/pdf/0911.0460.pdf) | Hongjun Jeon ||
+ | Week 15 | Undetermined | Hyundoo Jin ||
+ | Week 16 | H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, etc. Google, Inc (2013), <br>["Ad Click Prediction: a View from the Trenches"](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf) | Hongjun Jeon | [PPT(ongoing)](https://1drv.ms/p/s!Ajzh_kS0v4hAd8DSHOYjzZpsN9A)|
