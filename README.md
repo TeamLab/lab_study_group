@@ -9,14 +9,20 @@ Email - teamlab.gachon@gmail.com
 ### Issue
 - [2018 Issue List](./2018/Issue)
 
+### Spring / Summer
+- [Paper Presentation](./2018/Paper_presentation)
+- [KDD Cup Competition](./2018/KDD_Cup)
+
 ### Winter
 - [Improve coding skill](./2018/CodingInterview)
 
 
 ## 2017@Gachon
-
 ### Issue
 - [2017 Issue List](./2017/Issue)
+
+### Paper
+- [2017 Paper Review](./2017/paper)
 
 ### Fall - Deep Learning: NLP
 - [CS224d: Deep Learning for Natural Language Processing](./2017/CS224d)
@@ -24,3 +30,12 @@ Email - teamlab.gachon@gmail.com
 
 ### Summer - Deep Learning: Basic
 - [CS 20SI: Tensorflow for Deep Learning Research](2017/CS_20SI)
+
+### Winter - Coursera
+- [Coursera : ML-Clustering, Neural Networks for Machine Learning](./2017/coursera)
+
+
+## 2016@Gachon
+
+### Fall - Text-mining
+- [word2vec, doc2vec](./2016)
