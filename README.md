@@ -4,7 +4,7 @@
 자료 관련 문의는 다음 이메일로 연락주시기 바랍니다.
 
 Email - teamlab.gachon@gmail.com
-<hr>
+
 ## 2018@Gachon
 ### Issue
 - [2018 Issue List](./2018/Issue)
@@ -16,7 +16,6 @@ Email - teamlab.gachon@gmail.com
 ### Winter
 - [Improve coding skill](./2018/CodingInterview)
 
-<hr>
 
 ## 2017@Gachon
 ### Issue
@@ -35,7 +34,6 @@ Email - teamlab.gachon@gmail.com
 ### Winter - Coursera
 - [Coursera : ML-Clustering, Neural Networks for Machine Learning](./2017/coursera)
 
-<hr>
 
 ## 2016@Gachon
 
