@@ -2,7 +2,7 @@ city =["Jeju", "Pangyo", "Seoul", "NewYork", "LA", "SanFrancisco", "Seoul", "Rom
 city2 = []
 time = 0
 temp = []
-cacheSize=int(input())
+cacheSize = int(input())
 
 for i in range(len(city)):
     city2.append(city[i].upper())
