@@ -1,4 +1,4 @@
-#  2018 Spring / Summer: Paper presentation(The master's course)
+#  2018 Paper presentation(The master's course)
 - Purpose of the repoistory:
     - Understand the structure and flow of a thesis through the presentation and review of a thesis
     - Acquire the latest theory and to suggest the direction of learning
@@ -8,7 +8,13 @@
     - [CORNELL UNIVERSITY LIBRARY](https://www.library.cornell.edu/)
     - [Data Mining Laboratory(Systems Management Engineering, Sungkyunkwan University)](https://sites.google.com/view/skkudm/home/)
     - [Data Science & Business Analytics Lab(Korea University)](http://dsba.korea.ac.kr/wp/?page_id=40)
-####  A presentation schedule
+
+#### Summer seminar
+| Date | Title | Presenter | Slide |
+| ---- | --- | --- | --- |
+| Week 1 | Ariyajunya, B., Tarun, P.*, Chen, V.*, Kim, S.B.  (2018+), <br> [Modeling the impact of airport deicing/anti-icing activities on the dissolved oxygen levels in the receiving waterways](http://dmqa.korea.ac.kr/board/list.asp?b_code=B_JP&tid=102&sid=102)|
+
+#### Spring seminar
  | Date | Title | Presenter | Slide |
  | ---- | --- | --- | --- |
  | Week 1 | Ariyajunya, B., Tarun, P.*, Chen, V.*, Kim, S.B.  (2018+), <br> [Modeling the impact of airport deicing/anti-icing activities on the dissolved oxygen levels in the receiving waterways](http://dmqa.korea.ac.kr/board/list.asp?b_code=B_JP&tid=102&sid=102)| Hyundoo Jin |[PPT](https://1drv.ms/p/s!AkhuwIEQ62qbkxXe2SF2Y8L6V7eq) |

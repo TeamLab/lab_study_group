@@ -6,11 +6,13 @@
 Email - teamlab.gachon@gmail.com
 
 ## 2018@Gachon
+### Paper
+- [2018 Paper Review](./2018/paper)
+
 ### Issue
 - [2018 Issue List](./2018/Issue)
 
-### Spring / Summer
-- [Paper Presentation](./2018/Paper_presentation)
+### Spring
 - [KDD Cup Competition](./2018/KDD_Cup)
 
 ### Winter
