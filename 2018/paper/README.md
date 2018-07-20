@@ -12,8 +12,8 @@
 #### Summer seminar
 | Date | Title | Presenter | Slide |
 | ---- | --- | --- | --- |
-| Week 1 | Ariyajunya, B., Tarun, P.*, Chen, V.*, Kim, S.B.  (2018+), <br> [Modeling the impact of airport deicing/anti-icing activities on the dissolved oxygen levels in the receiving waterways](http://dmqa.korea.ac.kr/board/list.asp?b_code=B_JP&tid=102&sid=102)|
-
+| Week 1 | Ariyajunya, B., Tarun, P.*, Chen, V.*, Kim, S.B.  (2018+), <br> [Modeling the impact of airport deicing/anti-icing activities on the dissolved oxygen levels in the receiving waterways](http://dmqa.korea.ac.kr/board/list.asp?b_code=B_JP&tid=102&sid=102)| | |
+| Week 2 | Michael Jahrer, Andreas Töscher, Robert Legenstein  (2010), <br> [Combining Predictions for Accurate Recommender Systems](http://elf-project.sourceforge.net/CombiningPredictionsForAccurateRecommenderSystems.pdf)| Hyeonju Lee | [PPT](https://docs.google.com/presentation/d/1QBGDi8CSZ596O_7fIlVShF31HzdCwplXo0x9mZ_g2fs/edit?usp=sharing)|
 #### Spring seminar
  | Date | Title | Presenter | Slide |
  | ---- | --- | --- | --- |
@@ -34,4 +34,4 @@
  | Week 15 | Undetermined | Hyundoo Jin ||
  | Week 16 | H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, etc. Google, Inc (2013), <br>["Ad Click Prediction: a View from the Trenches"](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf) | Hongjun Jeon | [PPT(ongoing)](https://1drv.ms/p/s!Ajzh_kS0v4hAd8DSHOYjzZpsN9A)|
  | Week 17 | Undetermined | Hyundoo Jin ||
- | Week 18 | Eric Zelikman. (2018), <br>["Context is Everything: Finding Meaning Statistically in Semantic Spaces"](https://arxiv.org/abs/1803.08493) | Hongjun Jeon ||
+ | Week 18 | Eric Zelikman. (2018), <br>["Context is Everything: Finding Meaning Statistically in Semantic Spaces"](https://arxiv.org/abs/1803.08493) | Hongjun Jeon |||
