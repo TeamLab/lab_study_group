@@ -14,6 +14,8 @@
 | ---- | --- | --- | --- |
 | Week 1 | Ariyajunya, B., Tarun, P.*, Chen, V.*, Kim, S.B.  (2018+), <br> [Modeling the impact of airport deicing/anti-icing activities on the dissolved oxygen levels in the receiving waterways](http://dmqa.korea.ac.kr/board/list.asp?b_code=B_JP&tid=102&sid=102)| | |
 | Week 2 | Michael Jahrer, Andreas Töscher, Robert Legenstein  (2010), <br> [Combining Predictions for Accurate Recommender Systems](http://elf-project.sourceforge.net/CombiningPredictionsForAccurateRecommenderSystems.pdf)| Hyeonju Lee | [PPT](https://docs.google.com/presentation/d/1QBGDi8CSZ596O_7fIlVShF31HzdCwplXo0x9mZ_g2fs/edit?usp=sharing)|
+| Week 3 | Kamran Kowsari, Mojtaba Heidarysafa, Donald E. Brown, Kiana Jafari Meimandi, Laura E. Barnes  (2018), <br> [RMDL: Random Multimodel Deep Learning for Classification](https://arxiv.org/abs/1805.01890)| Jaeyoung Kim | [PPT](https://drive.google.com/open?id=17ILQR2KEzA21u-BxWtqYnALBu4E-zbrbeKCN0K7iehw)|
+| Week 3 | Adam Santoro, Ryan Faulkner, David Raposo, Jack Rae, Mike Chrzanowski, Theophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap  (2018), <br> [Relational recurrent neural networks](https://arxiv.org/abs/1806.01822)| Jaeyoung Kim | [PPT](https://drive.google.com/open?id=17ILQR2KEzA21u-BxWtqYnALBu4E-zbrbeKCN0K7iehw)|
 #### Spring seminar
  | Date | Title | Presenter | Slide |
  | ---- | --- | --- | --- |
