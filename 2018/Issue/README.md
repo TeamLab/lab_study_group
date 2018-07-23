@@ -10,3 +10,4 @@
 | 2018.07.09 | Distilling the Knowledge in a Neural Network       | [이현주](https://github.com/hyoenju)   | [슬라이드](https://drive.google.com/open?id=1KpIX4hmEIzVCNO1bCTojsQkJn6HsgbMxwqPdz0Mu7Vc) |
 | 2018.07.09 | An Introduction to Deep Learning for Tabular Data  | [이현주](https://github.com/hyoenju)   | [슬라이드](https://drive.google.com/open?id=10oD5XH2UjE4H3-jMco-ByEmAtGgoTyioY7zTE3N8Wpw) |
 | 2018.05.02 | AWS lambda 를 통한 Tensorflow/Keras 배포하기          | [이현주](https://github.com/hyoenju)   | [슬라이드](https://drive.google.com/open?id=1KpIX4hmEIzVCNO1bCTojsQkJn6HsgbMxwqPdz0Mu7Vc) |
+| 2018.07.20 | Sudo pip install은 안돼요!                           | [신현아](https://github.com/HyunaShin)   | [슬라이드](https://docs.google.com/presentation/d/1EgAwz5t3WGiTPsFyL7zqkxa7_CvsD9HhzyikEefA-Zg/edit?usp=sharing) |
