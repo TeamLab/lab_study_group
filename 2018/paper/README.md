@@ -18,6 +18,8 @@
 | Week 3 | Kamran Kowsari, Mojtaba Heidarysafa, Donald E. Brown, Kiana Jafari Meimandi, Laura E. Barnes  (2018), <br> [RMDL: Random Multimodel Deep Learning for Classification](https://arxiv.org/abs/1805.01890)| Jaeyoung Kim | [PPT](https://drive.google.com/open?id=17ILQR2KEzA21u-BxWtqYnALBu4E-zbrbeKCN0K7iehw)|
 | Week 3 | Adam Santoro, Ryan Faulkner, David Raposo, Jack Rae, Mike Chrzanowski, Theophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap  (2018), <br> [Relational recurrent neural networks](https://arxiv.org/abs/1806.01822)| Jaeyoung Kim | [PPT](https://drive.google.com/open?id=17ILQR2KEzA21u-BxWtqYnALBu4E-zbrbeKCN0K7iehw)|
 | Week 4 | Arijit Biswas, Mukul Bhutani, Subhajit Sanyal  (2017), <br> [MRNet-Product2Vec: A Multi-task Recurrent Neural Network for Product Embeddings](https://arxiv.org/pdf/1709.07534.pdf)| Chanwoo Jeong | [PPT](https://drive.google.com/open?id=14hrq4JNnysUtAjOlGmRx3nitXptJv0NgM31YPQVX5WQ)|
+| Week 6 | Oluwaseun Ajao, Deepayan Bhowmik and Shahrzad Zargari (2018), <br> [Fake News Identification on Twitter with Hybrid CNN and RNN Models](https://arxiv.org/pdf/1806.11316)| Hyeonju Lee | [PPT](https://drive.google.com/file/d/1N10aJOmXNYEr_J_38iFcJMij4Sh_DhO8/view?usp=sharing)|
+
 #### Spring seminar
  | Date | Title | Presenter | Slide |
  | ---- | --- | --- | --- |
