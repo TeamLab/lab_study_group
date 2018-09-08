@@ -3,7 +3,7 @@
     - Understand the structure and flow of a thesis through the presentation and review of a thesis
     - Acquire the latest theory and to suggest the direction of learning
 
-| Date | Title | Presenter | Slide | Video | --- | --- | --- |
+| Date | Title | Presenter | Slide | Video | --- | --- | --- | --- |
 |  | H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, etc. Google, Inc (2013), <br>["Ad Click Prediction: a View from the Trenches"](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf) | Hongjun Jeon | [PPT(ongoing)](https://1drv.ms/p/s!Ajzh_kS0v4hAd8DSHOYjzZpsN9A)|  |
 |  | Michael Jahrer, Andreas Töscher, Robert Legenstein  (2010), <br> [Combining Predictions for Accurate Recommender Systems](http://elf-project.sourceforge.net/CombiningPredictionsForAccurateRecommenderSystems.pdf)| Hyeonju Lee | [PPT](https://docs.google.com/presentation/d/1QBGDi8CSZ596O_7fIlVShF31HzdCwplXo0x9mZ_g2fs/edit?usp=sharing)|  |
 |  | Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua  (2017), <br> [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)| Chanwoo Jeong | [PPT](https://docs.google.com/presentation/d/14hrq4JNnysUtAjOlGmRx3nitXptJv0NgM31YPQVX5WQ/edit?usp=sharing)|  |
