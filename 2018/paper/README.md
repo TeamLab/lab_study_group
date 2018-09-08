@@ -5,7 +5,7 @@
 
 | Date | Title | Presenter | Slide |
 | Video | --- | --- | --- |
-| | H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, etc. Google, Inc (2013), <br>["Ad Click Prediction: a View from the Trenches"](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf) | Hongjun Jeon | [PPT(ongoing)](https://1drv.ms/p/s!Ajzh_kS0v4hAd8DSHOYjzZpsN9A)|  |
+|  | H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, etc. Google, Inc (2013), <br>["Ad Click Prediction: a View from the Trenches"](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41159.pdf) | Hongjun Jeon | [PPT(ongoing)](https://1drv.ms/p/s!Ajzh_kS0v4hAd8DSHOYjzZpsN9A)|  |
 |  | Michael Jahrer, Andreas Töscher, Robert Legenstein  (2010), <br> [Combining Predictions for Accurate Recommender Systems](http://elf-project.sourceforge.net/CombiningPredictionsForAccurateRecommenderSystems.pdf)| Hyeonju Lee | [PPT](https://docs.google.com/presentation/d/1QBGDi8CSZ596O_7fIlVShF31HzdCwplXo0x9mZ_g2fs/edit?usp=sharing)|  |
 |  | Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua  (2017), <br> [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf)| Chanwoo Jeong | [PPT](https://docs.google.com/presentation/d/14hrq4JNnysUtAjOlGmRx3nitXptJv0NgM31YPQVX5WQ/edit?usp=sharing)|  |
 |  | Kamran Kowsari, Mojtaba Heidarysafa, Donald E. Brown, Kiana Jafari Meimandi, Laura E. Barnes  (2018), <br> [RMDL: Random Multimodel Deep Learning for Classification](https://arxiv.org/abs/1805.01890)| Jaeyoung Kim | [PPT](https://drive.google.com/open?id=17ILQR2KEzA21u-BxWtqYnALBu4E-zbrbeKCN0K7iehw)|  |
@@ -23,10 +23,10 @@
  |  | Chan Woo Lee, Kyu Ye Song, Jihoon Jeong, Woo Yong Choi. (2018), <br>["Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data"](https://arxiv.org/abs/1805.06606) | Hyundoo Jin |[PPT](https://1drv.ms/p/s!Ajzh_kS0v4hAe3asigh2WveZsJo)|  |
  |  | Scott Sereday and Jingsong Cui (2017),<br> ["USING MACHINE LEARNING TO PREDICT FUTURE TV RATINGS"](http://www.nielsen.com/content/dam/nielsenglobal/us/docs/journal-of-measurement/vol1-issue3/using-machine-learning-to-predict-future-tv-ratings.pdf) | Hongjun Jeon |[PPT](https://1drv.ms/p/s!Ajzh_kS0v4hAfX2aP0xdZDKTFHY)|  |
  |  | Richárd Csáky. (2017),<br> ["Deep Learning Based Chatbot Models"](https://www.researchgate.net/publication/323587007_Deep_Learning_Based_Chatbot_Models) | Hyundoo Jin |||
- |  | TaeHyup Roh (2007),<br> ["Forecasting the volatility of stock price index"](https://www.sciencedirect.com/science/article/pii/S0957417406002223) | Hongjun Jeon |||
- | | Undetermined | Hyundoo Jin |||
- | | Joseph Sill, Gabor Takacs, Lester Mackey, David Lin. (2009), <br>["Feature-Weighted Linear Stacking"](https://arxiv.org/pdf/0911.0460.pdf) | Hongjun Jeon |||
- | | Undetermined | Hyundoo Jin |||
+ |  | TaeHyup Roh (2007),<br> ["Forecasting the volatility of stock price index"](https://www.sciencedirect.com/science/article/pii/S0957417406002223) | Hongjun Jeon |  |  |
+ |  | Undetermined | Hyundoo Jin |  |  |
+ |  | Joseph Sill, Gabor Takacs, Lester Mackey, David Lin. (2009), <br>["Feature-Weighted Linear Stacking"](https://arxiv.org/pdf/0911.0460.pdf) | Hongjun Jeon |  |  |
+ |  | Undetermined | Hyundoo Jin |  |  |
  | 09/06 | Dwaipayan Roy, Kunal Ray, Mandar Mitra  (2016), <br> [From a “Scholarly Big Dataset” to a Test Collectionfor Bibliographic Citation Recommendation](https://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12635/12443)| [Chanwoo Jeong](https://github.com/JeongChanwoo) | [PPT](https://drive.google.com/open?id=134u5_RUJ8QmGVAsw4Li5qZD_Qiwu7Zoz3WcteMpPfPY)| [vimeo](https://vimeo.com/288531848) |
  | 09/06 | Yiqiang Zhan (2018), <br> [Document Representation Learning For Patient History Visualization](http://aclweb.org/anthology/C18-2007)| [Seokkyu Choi](https://github.com/choiseokkyu) | [PPT](https://drive.google.com/open?id=1oNyogNbsdNkKEwUbfDNyvIQXQCMfOGHu1sXsTGKNmYA)| [vimeo](https://vimeo.com/288531080/b9827fac03) |
   | 09/06 | Kilol Gupta, Mukund Y. Raghuprasad, Pankhuri Kumar (2018), <br> [A Hybrid Variational Autoencoder for Collaborative Filtering](http://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_45.pdf)| [Hyeonju Lee](https://github.com/hyeonju) | [PPT](https://drive.google.com/file/d/17sq9LNvK_Y9GuVfSMdL1Ipl8mr5ddo2L/view)| [vimeo](https://vimeo.com/288531153/7fa366c36e) |
