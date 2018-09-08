@@ -28,3 +28,4 @@
  | | Joseph Sill, Gabor Takacs, Lester Mackey, David Lin. (2009), <br>["Feature-Weighted Linear Stacking"](https://arxiv.org/pdf/0911.0460.pdf) | Hongjun Jeon ||
  | | Undetermined | Hyundoo Jin ||
  | 03 Sept.  | Dwaipayan Roy, Kunal Ray, Mandar Mitra  (2016), <br> [From a “Scholarly Big Dataset” to a Test Collectionfor Bibliographic Citation Recommendation](https://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12635/12443)| [Chanwoo Jeong](https://github.com/JeongChanwoo) | [PPT](https://drive.google.com/open?id=134u5_RUJ8QmGVAsw4Li5qZD_Qiwu7Zoz3WcteMpPfPY)|
+ | 06 Sept.  | Yiqiang Zhan (2018), <br> [Document Representation Learning For Patient History Visualization](http://aclweb.org/anthology/C18-2007)| [Seokkyu Choi](https://github.com/choiseokkyu) | [PPT](https://drive.google.com/open?id=1oNyogNbsdNkKEwUbfDNyvIQXQCMfOGHu1sXsTGKNmYA)|
