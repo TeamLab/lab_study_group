@@ -7,7 +7,7 @@
 
 | 일시         | Issue                                             |                    발표자             | 슬라이드 | 비디오 |
 | :--------- | :------------------------------------------------- | :----------------------------------- | :----- |  :---- |
-| 2018.09.13 | H2O Tutorial | [김진홍](https://github.com/jinongkim/) | [슬라이드](https://docs.google.com/presentation/d/13UUPw1mbVwhJV325f_bxt44Bdc-sqXwG-c5ZWjQDA0M/edit?usp=sharing) |  [Vimeo] |
+| 2018.09.13 | H2O Tutorial | [김진홍](https://github.com/jinongkim/) | [슬라이드](https://docs.google.com/presentation/d/13UUPw1mbVwhJV325f_bxt44Bdc-sqXwG-c5ZWjQDA0M/edit?usp=sharing) |  [Vimeo]() |
 | 2018.08.24 | Big_Contest 2018 2차 브리핑                    | [정찬우](https://github.com/JeongChanwoo)   | [슬라이드](https://drive.google.com/open?id=1SiYC1vozlfhEoc0S67q-lWu47yHsqg65X0JuAJzapw0) |  |
 | 2018.08.22 | [Spark AI summit - Netflix](https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa)                    | [정찬우](https://github.com/JeongChanwoo)   | [슬라이드](https://drive.google.com/open?id=1IUk4thcyJiBCEO3bzTEDurO-brnfaMdR5xWyBrMsCO0) |  |
 | 2018.08.17 | 쉽게 알아보는 서버 인증(세션/쿠키,JWT)                    | [신현아](https://github.com/HyunaShin)   | [슬라이드](https://drive.google.com/file/d/1p7aJDdy0WCbCLN6G5r7EPxF3dQBXMvSW/view?usp=sharing) |  |
