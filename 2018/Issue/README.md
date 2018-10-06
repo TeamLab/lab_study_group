@@ -7,6 +7,9 @@
 
 | 일시         | Issue                                             |                    발표자             | 슬라이드 | 비디오 |
 | :--------- | :------------------------------------------------- | :----------------------------------- | :----- |  :---- |
+| 2018.09.27 | 실전파이썬프로그래밍 - 쓰레드와 멀티프로세스, CPU확장하기 | [신현아](https://github.com/HyunaShin) | [슬라이드](https://docs.google.com/presentation/d/1brdv6pS4NFNoPgD_PPhCS8WN2xO70XrWax3XVg2hnpU/edit#slide=id.p1) |  [Vimeo](https://vimeo.com/292565302) |
+| 2018.09.27 | Lightsail and TheTeamlab.io | [신현아](https://github.com/HyunaShin) | [슬라이드](https://docs.google.com/presentation/d/10ZOE2spjJjeoT9Y3wHOTxyDUrqzVZX9y5_yYJuDr6lU/edit#slide=id.p1) |  [Vimeo](https://vimeo.com/292565339) |
+| 2018.09.18 | Google Patents Public Datasetsconnecting public, paid and private patent data | [정찬우](https://github.com/JeongChanwoo) | [슬라이드](https://drive.google.com/open?id=1XD7XkL6UsElrCkc4Sh7vwSRe_HJlCJoSbuoayBSevP8) |  [Vimeo](https://vimeo.com/290870585) |
 | 2018.09.13 | H2O Tutorial | [김진홍](https://github.com/jinongkim/) | [슬라이드](https://docs.google.com/presentation/d/13UUPw1mbVwhJV325f_bxt44Bdc-sqXwG-c5ZWjQDA0M/edit?usp=sharing) |  [Vimeo]() |
 | 2018.08.24 | Big_Contest 2018 2차 브리핑                    | [정찬우](https://github.com/JeongChanwoo)   | [슬라이드](https://drive.google.com/open?id=1SiYC1vozlfhEoc0S67q-lWu47yHsqg65X0JuAJzapw0) |  |
 | 2018.08.22 | [Spark AI summit - Netflix](https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa)                    | [정찬우](https://github.com/JeongChanwoo)   | [슬라이드](https://drive.google.com/open?id=1IUk4thcyJiBCEO3bzTEDurO-brnfaMdR5xWyBrMsCO0) |  |
