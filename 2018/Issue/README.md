@@ -7,6 +7,7 @@
 
 | 일시         | Issue                                             |                    발표자             | 슬라이드 | 비디오 |
 | :--------- | :------------------------------------------------- | :----------------------------------- | :----- |  :---- |
+| 2018.09.27 | 실전파이썬프로그래밍 - 이벤트루프 | [신현아](https://github.com/HyunaShin) | [슬라이드](https://drive.google.com/open?id=1GMD_Nl0bJql8hQHxIvp8Gh23BlGTLr1QHjYndt7jCVY) |  [Vimeo]() |
 | 2018.09.27 | 실전파이썬프로그래밍 - 쓰레드와 멀티프로세스, CPU확장하기 | [신현아](https://github.com/HyunaShin) | [슬라이드](https://docs.google.com/presentation/d/1brdv6pS4NFNoPgD_PPhCS8WN2xO70XrWax3XVg2hnpU/edit#slide=id.p1) |  [Vimeo](https://vimeo.com/292565302) |
 | 2018.09.27 | Lightsail and TheTeamlab.io | [신현아](https://github.com/HyunaShin) | [슬라이드](https://docs.google.com/presentation/d/10ZOE2spjJjeoT9Y3wHOTxyDUrqzVZX9y5_yYJuDr6lU/edit#slide=id.p1) |  [Vimeo](https://vimeo.com/292565339) |
 | 2018.09.18 | Google Patents Public Datasetsconnecting public, paid and private patent data | [정찬우](https://github.com/JeongChanwoo) | [슬라이드](https://drive.google.com/open?id=1XD7XkL6UsElrCkc4Sh7vwSRe_HJlCJoSbuoayBSevP8) |  [Vimeo](https://vimeo.com/290870585) |
