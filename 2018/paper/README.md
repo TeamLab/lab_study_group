@@ -51,3 +51,7 @@
 | 10/11  | Myeongjun Jang, Pilsung Kang(2018), <br> [Paraphrase Thought : Sentence Embedding Module Imitating Human Language Recognition](https://arxiv.org/abs/1808.05505)  | [Hyundoo Jin](https://github.com/Hyundoo-Jin)  | [PPT](https://docs.google.com/presentation/d/1D9smLCbIEPgt6jPrFpYDO6aHxSzxvbDy1uGks7m0ESc/edit?usp=sharing)  | [vimeo](https://vimeo.com/294939321)  |
 | 10/11  | Aaron Abood, Dave Feltenberger (2018), <br> [Automated patent landscaping](https://link.springer.com/article/10.1007/s10506-018-9222-4)  | [Hyeonju Lee](https://github.com/hyoenju)  | [PPT](https://drive.google.com/open?id=1gEy_uhav6pbjS6BroaocFldZ9Tn6XEDm)  | [vimeo](https://vimeo.com/294939266)  |
 | 11/15 | Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer(2018),<br> [Deep contextualized word representations](https://arxiv.org/abs/1802.05365) | [Hyundoo Jin](https://github.com/Hyundoo-Jin) | [PPT](https://docs.google.com/presentation/d/1nP6qasbHus9twkeWAWBX3FfVKQaXPDrG-1l91s926SM/edit?usp=sharing) |[vimeo](https://vimeo.com/302226170)|
+<<<<<<< HEAD
+=======
+| 11/28 | Jacob Divlin, ming-Wei Chang, Kenton Lee, Kristina Toutanova(2018), <br> [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | [Jaeyoung Kim](https://github.com/kimjeyoung) | [PPT](https://drive.google.com/open?id=1kyflP_nSMGieZ07NTTQJv6Lj1RSabBll57Agxo-qN9w) |[vimeo](https://vimeo.com/303863257)|
+>>>>>>> upstream/master
