@@ -6,3 +6,4 @@
 
 | Date | Title | Presenter | Slide | Video |
 | ---- | --- | --- | --- | --- |
+| 01/04 | Shuai Tang, Virginia R. de Sa (2018), <br>[Multi-view Sentence Representation Learning](https://arxiv.org/pdf/1805.07443.pdf) | Seokkyu Choi | [PPT](https://drive.google.com/open?id=11RstGeeWrmGcKqbDFFEoB4mzETlrUuH-) | [vimeo](https://vimeo.com/309858751) |
