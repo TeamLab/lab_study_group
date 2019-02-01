@@ -10,4 +10,3 @@
 | 01/04 | Libin Yang, Yu Zheng, Xiaoyan Cai, Hang Dai, Dejun Mu, Lantian Guo, Tao Dai  (2018), <br>[A LSTM Based Model for Personalized Context-Aware Citation Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8478136) | Chanwoo Jeong | [PPT](https://drive.google.com/open?id=1d8P_C2ftoZARSWmHKQJq6O5UwctO292T6shIkhEjxgI) | [vimeo](https://vimeo.com/309858733) |
 | 01/23 | Martin Arjovsky, Soumith Chintala, Léon Bottou (2018), <br>[Wasserstein GAN & MCGAN](https://arxiv.org/abs/1701.07875) | Hongjun Jeon | [PPT](https://drive.google.com/drive/folders/12TPQCsThKx84UJlVfPwWodRDTlY4c5EP) | [vimeo](https://vimeo.com/309858751) |
 
-
