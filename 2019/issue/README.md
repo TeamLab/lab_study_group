@@ -8,10 +8,6 @@
 | 일시         | Issue                                             |                    발표자             | 슬라이드 | 비디오 |
 | :--------- | :------------------------------------------------- | :----------------------------------- | :----- |  :---- |
 | 2019.01.04 | 실전파이썬프로그래밍 - 큐를 사용한 분산| [신현아](https://github.com/HyunaShin) | [슬라이드](https://docs.google.com/presentation/d/1oRoh13UtDvECvd0HQc_E65AQj4AkFxAbM9rqYPz8xNI/edit#slide=id.p) |  [Vimeo](https://vimeo.com/309858699) |
-<<<<<<< HEAD
-| 2019.01.04 | 실전파이썬프로그래밍 - 함수형툴킷| [신현아](https://github.com/HyunaShin) | [슬라이드](https://docs.google.com/presentation/d/1FH3KBqbOjUSJLgmu0aECWk4gBlaAM4fdiZfilVeydMM/edit#slide=id.p) |  [Vimeo](https://vimeo.com/309858676) | |
-=======
 | 2019.01.04 | 실전파이썬프로그래밍 - 함수형툴킷| [신현아](https://github.com/HyunaShin) | [슬라이드](https://docs.google.com/presentation/d/1FH3KBqbOjUSJLgmu0aECWk4gBlaAM4fdiZfilVeydMM/edit#slide=id.p) |  [Vimeo](https://vimeo.com/309858676) |
 | 2019.01.10 | 파이썬답게 코딩하기 ch.1 | [최석규](https://github.com/choiseokkyu) | [슬라이드](https://drive.google.com/open?id=10L4KrwlmfRKN_2K_BGcRVhmpNLSyzVtn) |  [Vimeo](https://vimeo.com/314704530) |
 | 2019.01.23 | 파이썬답게 코딩하기 ch.2 | [최석규](https://github.com/choiseokkyu) | [슬라이드](https://github.com/choiseokkyu/pythonic_code/blob/master/decorator.ipynb) |  [Vimeo](https://vimeo.com/314704590) | |
->>>>>>> a6211edaf0d9c24ac059c10d75603ad8b1613767
