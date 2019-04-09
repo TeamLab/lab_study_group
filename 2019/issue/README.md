@@ -16,5 +16,4 @@
 | 2019.03.04 | 실전파이썬프로그래밍 - RestAPI 만들기 | [신현아](https://github.com/HyunaShin)| [슬라이드](https://drive.google.com/open?id=14vLOqGfp83nsUH8_4Q5wOuuczd82bv9j) |  [Vimeo](https://vimeo.com/329285690) |
 | 2019.03.04 | BERT GCN 추가실험 계획 | [장시온](https://github.com/Janguck)| [슬라이드](https://drive.google.com/open?id=1nVVg6Irsfw-BB7iKAegmBRflft99b8kPkgGknzPNuvs) |  [Vimeo](https://vimeo.com/325370002/fa7d8cba54) |
 | 2019.03.20 | 실전파이썬프로그래밍 - 그룹멤버십 | [신현아](https://github.com/HyunaShin)| [슬라이드](https://drive.google.com/open?id=1Irlh9Iap4OOUOIG9NTQm2gf5Cth69GG_C2IULPy4r4I) |  [Vimeo](https://vimeo.com/329285605) |
-| 2019.03.20 | 실전파이썬프로그래밍 - PaaS에 배포하기 | [신현아](https://github.com/HyunaShin)| [슬라이드](https://drive.google.com/open?id=1WXNQH03xe07oTUWDKrwUFTMQXjeHqzkmBy-fry2Hlt0) |  [Vimeo](https://vimeo.com/329285653) |
-|
+| 2019.03.20 | 실전파이썬프로그래밍 - PaaS에 배포하기 | [신현아](https://github.com/HyunaShin)| [슬라이드](https://drive.google.com/open?id=1WXNQH03xe07oTUWDKrwUFTMQXjeHqzkmBy-fry2Hlt0) |  [Vimeo](https://vimeo.com/329285653) ||
